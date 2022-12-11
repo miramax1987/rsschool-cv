@@ -8,3 +8,6 @@
 ## At the moment I have no programming experience. I'm learning javascript, I want to develop in the direction of full-stack development.
 
 ## I have a degree in business management.
+
+## I don't have any code at this moment.
+## My english level is B1.
